@@ -1,1 +1,13 @@
-
+# Output
+![Screenshot (748)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/8239163b-e5e8-4481-bed4-da41c4899836)
+![Screenshot (747)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/373c555b-b966-41be-92df-0f13e5405fe8)
+![Screenshot (746)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/5b9dab07-524d-4fef-8e69-ddaf7a383f37)
+![Screenshot (745)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/ad444578-2da7-4102-a1a0-6d98b1e373ab)
+![Screenshot (744)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/1f772d61-5318-44f7-94da-2f54f0ecdfea)
+![Screenshot (743)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/2c65ded9-7c00-40b1-bb3f-6c9d1e39dafc)
+![Screenshot (742)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/72ea17f1-d58d-420e-a902-24841373a705)
+![Screenshot (741)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/0e2c40c0-76c2-40fe-b9b9-ff2e279ef869)
+![Screenshot (740)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/425bd098-403f-450d-89fa-ac726cd3ddb6)
+![Screenshot (739)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/13a4c30d-f482-4e2a-ab4d-a5bb61d81acc)
+![Screenshot (738)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/eb9aa900-e425-467c-949f-c6a8e07c6725)
+![Screenshot (737)](https://github.com/balvantbhagat/Xenon-Stack-Project/assets/118335931/944c24ba-8717-4048-afec-4b334da58b8e)
